@@ -1,0 +1,25 @@
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+Subject: Password reset on 127.0.0.1:8000
+From: webmaster@localhost
+To: apashanskiy@gmail.com
+Date: Mon, 26 Aug 2019 12:10:07 -0000
+Message-ID: <156682140772.82.12486448990911506312@DESKTOP-R0REDOQ.localdomain>
+
+
+You're receiving this email because you requested a password reset for your user account at 127.0.0.1:8000.
+
+Please go to the following page and choose a new password:
+
+http://127.0.0.1:8000/account/reset/MQ/597-48acedd94fa71ef0718d/
+
+Your username, in case you've forgotten: root
+
+Thanks for using our site!
+
+The 127.0.0.1:8000 team
+
+
+
+-------------------------------------------------------------------------------
